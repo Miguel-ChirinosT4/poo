@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-    // Definición de constantes
     const double ladoCuadrado = 5.0;
     const double radioCirculo = 3.0;
     const double baseTriangulo = 4.0;
