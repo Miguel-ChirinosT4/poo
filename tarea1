@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    const double ladoCuadrado = 5.0;
+    const double ladoCuadrado = 5.0; 
     const double radioCirculo = 3.0;
     const double baseTriangulo = 4.0;
     const double alturaTriangulo = 6.0;
